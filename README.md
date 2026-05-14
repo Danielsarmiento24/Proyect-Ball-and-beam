@@ -1,6 +1,8 @@
-# Datos Experimentales
+# 05 - Datos Experimentales
 
-Repositorio de mediciones reales obtenidas durante las pruebas:
-* Archivos `.csv` o `.mat` con logs de tiempo, posición y ángulo.
-* Comparativas de respuesta al escalón y rechazo a perturbaciones.
-* Datos utilizados para la validación de los modelos teóricos.
+Repositorio de archivos de datos reales utilizados para la validación.
+
+### Archivos Incluidos:
+* **Identificación:** Logs para caracterizar la relación entre el ángulo de la viga y la posición de la bola.
+* **Validación de Sensores:** Datos de calibración (curvas, ruido y frecuencia de muestreo).
+* **Pruebas de Control:** Registros de posición de la bola, ángulo de la viga y señal de actuación ante cambios de referencia.
