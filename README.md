@@ -1,7 +1,11 @@
-# Informe Técnico
+# 01 - Informe Técnico Final
 
-En esta sección se encuentra la documentación detallada del proyecto. Incluye:
-* **Modelado Matemático:** Derivación de las ecuaciones dinámicas del sistema.
-* **Análisis de Estabilidad:** Estudio con controladores.
-* **Diseño de Control:** Criterios de diseño para los controladores implementados.
-* **Conclusiones:** Evaluación del desempeño del sistema Ball and Beam.
+Este documento principal detalla el ciclo completo de ingeniería del proyecto Ball and Beam.
+
+### Contenido Obligatorio:
+* **Modelado Matemático:** Ecuaciones dinámicas y linealización en el punto de operación.
+* **Identificación Experimental:** Relación ángulo-aceleración y validación del modelo planta-real.
+* **Diseño de Control:**
+    * **Clásico:** Sintonización de PID o compensadores.
+    * **Espacio de Estados:** Matrices A, B, C, D, análisis de controlabilidad y diseño LQR o ubicación de polos.
+* **Análisis de Resultados:** Comparación de métricas (tiempo de establecimiento, sobrepico, error estacionario y esfuerzo de control).
